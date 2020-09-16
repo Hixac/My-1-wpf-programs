@@ -7,4 +7,4 @@
 https://support.microsoft.com/ru-ru/help/4503548/microsoft-net-framework-4-8-offline-installer-for-windows
 
 Добавлено: 
-Покупка автокликов
+ПоверАп кнопка!
